@@ -1,7 +1,7 @@
 package gr.aueb.cf.testgit;
 
 public class AddApp {
-    static void main() {
+    public static void main() {
         System.out.println( add ( 1, 2));
     }
 
